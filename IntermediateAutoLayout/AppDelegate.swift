@@ -3,7 +3,7 @@
 //  IntermediateAutoLayout
 //
 //  Created by Eliel A. Gordon on 10/30/17.
-//  Copyright © 2017 Eliel Gordon. All rights reserved.
+//  Copyright © 2017 Phyllis Wong. All rights reserved.
 //
 
 import UIKit
